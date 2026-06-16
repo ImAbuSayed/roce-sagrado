@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce sagrado
+
+This log tracks the cryptographic history and versioning for the song **Roce sagrado** (roce-sagrado).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:59:51.893766 | `v1` | `a53079f4d972b60f0fc42dce8c0f631b4a6399e38511f4840ded122d32f9b677` | `ada0f8757920abd655a90a1facb4fc06227bda08d68a22637090e6b276c182fb` | `2026-06-16_roce-sagrado-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

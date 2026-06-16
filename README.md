@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-sagrado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Roce sagrado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-sagrado/) |
+| **Get License** | [License this song: Roce sagrado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-sagrado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a53079f4d972b60f0fc42dce8c0f631b4a6399e38511f4840ded122d32f9b677` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
